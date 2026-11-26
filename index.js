@@ -25,7 +25,7 @@ const fs         = require('fs');
 const CFG = {
     TOKEN,
     ADMIN_ID:     process.env.ADMIN_ID     || '7799994340',
-    CHANNEL:      'rakibfxatrading',
+    CHANNEL:      'mafia_cyber_world',
     FB_PAGE:      'https://www.facebook.com/profile.php?id=61596403274813',
     START_IMG:    'https://hc1.checker.in/file2link/photos/file_661524.jpg/file_661524.jpg',
     LURE_VID:     'http://hc1.checker.in/file2link/videos/file_657140.mp4/',
