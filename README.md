@@ -1,5 +1,9 @@
-<div align="center"><!-- PREMIUM PROFILE BANNER --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,50:164e63,100:06b6d4&height=260&section=header&text=ASHIKUR%20FXA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=CYBERSECURITY%20%7C%20DEVELOPER%20%7C%20AUTOMATION&descAlignY=58&descSize=17&animation=fadeIn"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=WELCOME+TO+MY+DIGITAL+WORLD;CYBERSECURITY+%26+SOFTWARE+DEVELOPMENT;NODE.JS+%7C+TELEGRAM+BOT+DEVELOPER;BACKEND+ENGINEERING+%26+AUTOMATION;BUILDING+THE+FUTURE+WITH+CODE" /><br/><a href="https://github.com/ashikurfxa-tech">
-<img src="https://img.shields.io/badge/GITHUB-ASHIKURFXA--TECH-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<div align="center"><!-- ═══════════════════════════════════════════ --><!-- CYBER INTELLIGENCE FXA 999 | PREMIUM PROFILE --><!-- ═══════════════════════════════════════════ --><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=CYBER%20INTELLIGENCE%20FXA%20999&fontSize=42&fontColor=00F7FF&stroke=00BFFF&strokeWidth=1&animation=fadeIn&color=0:020617,30:0B1120,60:102A43,100:020617&desc=🎭%20CYBERSECURITY%20%7C%20INTELLIGENCE%20%7C%20DEVELOPMENT&descSize=15&descAlignY=70"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=SYSTEM+INITIALIZED...;WELCOME+TO+CYBER+INTELLIGENCE+FXA+999;CYBERSECURITY+%7C+NODE.JS+%7C+AUTOMATION;THINK+SMART.+CODE+STRONG.+STAY+SECURE.;THE+NEXT+LEVEL+STARTS+HERE." /><br/><img src="https://img.shields.io/badge/IDENTITY-CYBER%20INTELLIGENCE%20FXA%20999-00E5FF?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CLASS-CYBER%20DEVELOPER-7C3AED?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge&labelColor=020617"/><br/><br/>
+
+<a href="https://github.com/ashikurfxa-tech">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/ashikur-fxa-111754452">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -8,158 +12,178 @@
 <img src="https://img.shields.io/badge/FACEBOOK-FOLLOW-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 <a href="https://t.me/mafia_cyber_world">
-<img src="https://img.shields.io/badge/TELEGRAM-JOIN-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img src="https://img.shields.io/badge/TELEGRAM-JOIN%20CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ashikurfxa-tech&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/></div>---
+<img src="https://komarev.com/ghpvc/?username=ashikurfxa-tech&label=PROFILE%20VISITORS&color=00e5ff&style=for-the-badge"/></div>---
 
-<div align="center">⚡ WHO AM I?
+<div align="center">🎭 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐃𝐈𝐆𝐈𝐓𝐀𝐋 𝐖𝐎𝐑𝐋𝐃
 
-👨‍💻 ASHIKUR FXA
+⚡ CYBER INTELLIGENCE FXA 999
 
-Cybersecurity Enthusiast | Backend Developer | Telegram Automation Engineer
+CYBERSECURITY • SOFTWARE ENGINEERING • AUTOMATION
 
-</div>Hello, world! 👋 Welcome to my GitHub profile.
+</div>🧬 01 — ABOUT THE DEVELOPER
 
-I'm a technology enthusiast passionate about software development, cybersecurity research, backend engineering, and automation. I enjoy exploring new technologies and building practical projects using modern development tools.
+Welcome to my digital space! I'm CYBER INTELLIGENCE FXA 999 🎭, a technology enthusiast focused on cybersecurity research, software development, Telegram automation, and backend engineering.
+
+My interests include exploring modern technologies, understanding digital systems, building automation solutions, and developing practical software.
 
 <details>
-<summary>🌟 MORE ABOUT ME — CLICK TO EXPAND</summary>- 💻 JavaScript and Node.js development
-- 🤖 Telegram bot architecture and automation
-- 🔐 Ethical cybersecurity research
-- 🌐 Backend systems and API integration
-- ⚙️ Automation and system optimization
-- 📊 Data management and monitoring
-- 🚀 Continuous learning and experimentation
+<summary>🔥 EXPLORE MY DEVELOPER PROFILE</summary>- 💻 JavaScript & Node.js Development
+- 🤖 Telegram Bot Engineering
+- 🔐 Ethical Cybersecurity Research
+- 🌐 Backend & API Development
+- ⚙️ Automation & System Architecture
+- 📊 Data Management & Analytics
+- 🛠️ Software Testing & Optimization
+- 🚀 Continuous Learning & Innovation
 
 </details>---
 
-🧠 MY TECHNICAL SKILLS
+🧠 02 — TECHNICAL SKILLS & EXPERTISE
 
-<div align="center">💻 PROGRAMMING & DEVELOPMENT
+<div align="center">💻 PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,html,css&theme=dark"/>🛠️ TOOLS & ENVIRONMENTS
+<img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark"/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/><br/><img src="https://img.shields.io/badge/JAVASCRIPT-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/NODE.JS-RUNTIME-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/EXPRESS-BACKEND-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/TELEGRAM-BOT_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></div>---
+⚙️ BACKEND & FRAMEWORKS
 
-🚀 FEATURED PROJECT
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/><br/><br/>
 
-<div align="center"><img src="https://img.shields.io/badge/PROJECT-HACKING%20TOOL%20BOT%20v2-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>🤖 HACKING TOOL BOT v2
+🛠️ TOOLS & ENVIRONMENTS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/></div>🏷️ TECHNICAL AREA| 💠 TECHNOLOGY
+Programming| JavaScript, Node.js
+Backend| Express.js
+Bot Development| Telegram Bot API
+API Integration| REST APIs, HTTP
+Data Management| JSON, File System
+Version Control| Git, GitHub
+Deployment| Render
+Development Environment| Linux, VS Code
+
+---
+
+🚀 03 — FLAGSHIP PROJECT
+
+<div align="center"><img src="https://img.shields.io/badge/FLAGSHIP%20PROJECT-HACKING%20TOOL%20BOT%20v2-00E5FF?style=for-the-badge&labelColor=020617"/>🤖 HACKING TOOL BOT v2
 
 TELEGRAM MULTI-TOOL LINK GENERATOR
 
-A Node.js-powered Telegram automation project
+NODE.JS • EXPRESS.JS • TELEGRAM BOT API
 
-</div>A Telegram bot and Express.js application featuring user account management, admin controls, VIP privileges, referral rewards, token management, temporary link administration, analytics, and automated background services.
+<img src="https://img.shields.io/badge/PROJECT-Telegram%20Automation-229ED9?style=flat-square&logo=telegram"/>
+<img src="https://img.shields.io/badge/RUNTIME-Node.js-339933?style=flat-square&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-Express.js-FFFFFF?style=flat-square&logo=express&logoColor=black"/></div>A feature-rich Telegram automation project built around user management, administrative controls, VIP privileges, token economy, referral rewards, temporary link management, analytics, and background processing.
 
-📊 PROJECT STATISTICS
+📊 PROJECT OVERVIEW
 
 <div align="center">🏆 PROJECT METRIC| 📈 REPORTED VALUE
-⚡ Total feature inventory| 40
-🤖 Telegram commands| 10
-👑 Admin capabilities| 8
-👤 User capabilities| 32
-🌐 Web monitoring endpoints| 2
-⚙️ Automation categories| 6
-🔌 External integrations| 10+
-✅ Reported complete| 37
-🟡 Reported partial| 3
-⏳ Temporary link lifetime| 72 Hours
+⚡ Total Feature Inventory| 40
+🤖 Telegram Commands| 10
+👑 Admin Capabilities| 8
+👤 User Capabilities| 32
+🌐 Web Monitoring Endpoints| 2
+⚙️ Automation Categories| 6
+🔌 External Integrations| 10+
+✅ Reported Complete| 37
+🟡 Reported Partial| 3
+⏳ Temporary Link Lifetime| 72 Hours
 
-</div><sub>Statistics are based on the supplied project feature report and have not been independently audited.</sub>
+</div><sub>These statistics are taken from the supplied project analysis report and are not an independent audit of the source code.</sub>
 
 ---
 
-🧩 COMPLETE PROJECT FEATURE CATALOG
+🧩 04 — COMPLETE FEATURE CATALOG
 
-📸 01. BROWSER & DEVICE MODULES
+📸 A. BROWSER & DEVICE MODULES
 
-#| Module| Description
+#| FEATURE| DESCRIPTION
 01| 📷 Front Camera| Front-camera permission workflow
 02| 📷 Rear Camera| Rear-camera permission workflow
-03| 🎥 Front Video| Front-camera recording workflow
-04| 🎥 Rear Video| Rear-camera recording workflow
+03| 🎥 Front Video| Camera recording workflow
+04| 🎥 Rear Video| Camera recording workflow
 05| 📸 Dual Camera| Dual-camera testing concept
-06| 🎙️ Microphone| Audio permission and recording workflow
+06| 🎙️ Microphone| Audio permission workflow
 07| 📳 Vibration| Browser vibration API
-08| 🔔 Notifications| Browser notification permission
-09| 🧬 Fingerprinting| Browser/device characteristics analysis
+08| 🔔 Notifications| Notification permission
+09| 🧬 Fingerprinting| Browser/device characteristics
 10| 📍 GPS| Location permission workflow
 11| 📋 Clipboard| Clipboard permission workflow
 12| 🔋 Battery| Battery information
-13| 📶 Network| Connection information
+13| 📶 Network| Network information
 14| 🌐 IP Information| IP and network metadata
 
-🛡️ 02. SECURITY-SENSITIVE MODULE INVENTORY
+🛡️ B. SECURITY-SENSITIVE MODULE INVENTORY
 
-The supplied project report also identifies these categories:
+The supplied report identifies these additional categories:
 
-#| Reported module| Security category
-15| ⌨️ Keylogger demonstration| Input privacy
-16| 🔑 Facebook login simulation| Phishing awareness
-17| 📸 Instagram login simulation| Phishing awareness
-18| 🎵 TikTok login simulation| Phishing awareness
-19| 💬 Messenger login simulation| Phishing awareness
-20| ▶️ YouTube login simulation| Phishing awareness
-21| 📧 Gmail login simulation| Phishing awareness
-22| 💳 bKash interface| Payment security
-23| 💳 Nagad interface| Payment security
-24| 💰 Rocket interface| Payment security
-25| 🔐 WhatsApp OTP workflow| Authentication security
-26| 🔐 IMO OTP workflow| Authentication security
-27| 🔐 Telegram OTP workflow| Authentication security
-28| 📡 Local network discovery| Network security
-29| 👥 Contact/message access| Personal data privacy
+#| MODULE| CATEGORY
+15| ⌨️ Keylogger Demonstration| Input Privacy
+16| 🔑 Facebook Login Simulation| Phishing Awareness
+17| 📸 Instagram Login Simulation| Phishing Awareness
+18| 🎵 TikTok Login Simulation| Phishing Awareness
+19| 💬 Messenger Login Simulation| Phishing Awareness
+20| ▶️ YouTube Login Simulation| Phishing Awareness
+21| 📧 Gmail Login Simulation| Phishing Awareness
+22| 💳 bKash Interface| Payment Security
+23| 💳 Nagad Interface| Payment Security
+24| 💰 Rocket Interface| Payment Security
+25| 🔐 WhatsApp OTP Workflow| Authentication Security
+26| 🔐 IMO OTP Workflow| Authentication Security
+27| 🔐 Telegram OTP Workflow| Authentication Security
+28| 📡 Local Network Discovery| Network Security
+29| 👥 Contacts & Messages| Personal Data Privacy
 
-⚠️ IMPORTANT SECURITY WARNING
+<details>
+<summary>⚠️ SECURITY WARNING — IMPORTANT NOTICE</summary>AUTHORIZED SECURITY TESTING ONLY
 
-«WARNING — AUTHORIZED SECURITY TESTING ONLY»
+These modules involve sensitive technologies and security-testing categories.
 
-The above inventory contains sensitive technologies and simulated attack categories. Listing a module does not authorize its use against real users.
-
-- 🚫 No unauthorized credential or OTP collection.
-- 🚫 No payment PIN harvesting.
+- 🚫 No unauthorized password, PIN, or OTP collection.
 - 🚫 No covert camera or microphone recording.
 - 🚫 No unauthorized keylogging or surveillance.
 - 🚫 No deceptive login pages targeting real accounts.
-- ✅ Browser permissions must be transparent and consent-based.
-- ✅ Security testing must be performed only with explicit authorization.
+- 🚫 No unauthorized access to contacts or private messages.
+- ✅ Camera, microphone, GPS, and clipboard access must be consent-based.
+- ✅ Security research must take place in authorized environments.
 
----
+The presence of a module in this inventory does not authorize its deployment against real users.
 
-👑 03. ADMIN CONTROL SYSTEM
+</details>---
 
-Feature| Description
-👑 Admin Authentication| Admin ID-based authorization
-⭐ VIP Management| Grant VIP access
+👑 05 — ADMIN CONTROL CENTER
+
+<div align="center"><img src="https://img.shields.io/badge/MODULE-ADMIN%20CONTROL%20CENTER-7C3AED?style=for-the-badge&labelColor=020617"/></div>👑 ADMIN FEATURE| ⚡ DESCRIPTION
+🔐 Admin Authentication| Admin ID authorization
+⭐ VIP Management| Grant VIP privileges
 ❌ VIP Removal| Revoke VIP privileges
 🚫 User Ban| Restrict accounts
-🔓 User Unban| Restore account access
-💰 Balance Management| Update user balances
-🆓 Free User Management| Manage free-user list
-📊 Admin Statistics| View system statistics
+🔓 User Unban| Restore access
+💰 Balance Management| Update user balance
+🆓 Free User List| Manage free users
+📊 Statistics| View bot statistics
 📢 Broadcast| Send announcements
 
-Admin Capabilities
+ADMIN SYSTEM CAPABILITIES
 
 - Single administrator ID configuration
-- VIP and privileged-user controls
+- User permission management
+- VIP access control
 - Account status management
-- User balance administration
-- System statistics
+- Balance administration
+- User statistics
 - Broadcast management
 
 ---
 
-👤 04. USER MANAGEMENT SYSTEM
+👤 06 — USER MANAGEMENT ENGINE
 
 - 📝 User registration
 - 🆔 Telegram user ID records
 - 💰 User balance tracking
-- 👥 Referral relationship records
+- 🤝 Referral relationship records
 - 📅 Registration date
 - 🔗 Links-created counter
 - 🚫 Banned-user status
@@ -169,61 +193,62 @@ Admin Capabilities
 
 ---
 
-💎 05. TOKEN ECONOMY & REFERRAL ENGINE
+💎 07 — TOKEN ECONOMY & REFERRAL ENGINE
 
-Feature| Description
+<div align="center"><img src="https://img.shields.io/badge/SYSTEM-TOKEN%20%26%20REFERRAL%20ENGINE-F59E0B?style=for-the-badge&labelColor=020617"/></div>💎 FEATURE| 📝 DESCRIPTION
 🎁 Signup Bonus| New-user reward
-💰 Token Balance| User balance tracking
-🪙 Action Cost| Configurable token cost
+🪙 Token Balance| Balance management
+💰 Action Cost| Configurable token cost
 🤝 Referral System| Referral tracking
 🎉 Referral Rewards| Reward distribution
 ♾️ Lifetime Unlock| Lifetime access status
 ⭐ VIP Privileges| Premium user access
-📊 Referral Counter| Track invitations
+📊 Referral Counter| Invitation tracking
 
 ---
 
-🔗 06. LINK MANAGER & ANALYTICS
+🔗 08 — LINK MANAGER & ANALYTICS
 
-- 🔗 Active link management
-- ⏳ Temporary link expiration
-- 📋 Recent active links
-- 📈 Total link-open counter
-- 🕒 Last-open statistics
-- 📱 Device-category statistics
-- 📊 Link usage analytics
-- 📋 Link management interface
+🔗 MODULE| 📈 CAPABILITY
+Temporary Links| Link management
+Expiration System| 72-hour lifetime reported
+Active Links| Recent active links
+Open Counter| Total open statistics
+Last Open| Last-open information
+Device Analytics| Device-category statistics
+Link Manager| Link administration
+Link Statistics| Usage analytics
 
 ---
 
-⚙️ 07. AUTOMATION & BACKGROUND SERVICES
+⚙️ 09 — AUTOMATION & BACKGROUND SERVICES
 
-<div align="center">⚙️ AUTOMATION| ⏱️ REPORTED INTERVAL
+<div align="center"><img src="https://img.shields.io/badge/AUTOMATION-BACKGROUND%20ENGINE-00C853?style=for-the-badge&labelColor=020617"/></div>⚙️ SERVICE| ⏱️ REPORTED INTERVAL
 💾 Automatic JSON Save| 60 Seconds
 🧹 Expired Link Cleanup| 10 Minutes
-📩 Message Queue| Background
+📩 Telegram Message Queue| Background
 🔄 Flood Control Retry| On Error
-💓 Keep Alive| 4 Minutes
+💓 Keep-Alive Ping| 4 Minutes
 🛠️ Polling Recovery| On Failure
 
-</div>Additional systems:
+Additional automation:
 
-- Queue-based Telegram messaging
+- Message queue management
 - Inter-message delay
 - Rate-limit handling
+- Background persistence
 - Automatic cleanup
 - Runtime error monitoring
-- Background persistence
 
 ---
 
-🌐 08. WEB SERVER & MONITORING
+🌐 10 — WEB SERVER & MONITORING
 
-Endpoint| Purpose
+<div align="center"><img src="https://img.shields.io/badge/EXPRESS.JS-HTTP%20SERVER-000000?style=for-the-badge&logo=express&logoColor=white"/></div>🌐 ENDPOINT| 📝 PURPOSE
 "/"| Server status page
 "/health"| JSON health information
 
-Monitoring Information
+📊 MONITORING METRICS
 
 - 🟢 Server uptime
 - 💾 Memory usage
@@ -233,20 +258,20 @@ Monitoring Information
 
 ---
 
-🗄️ 09. DATABASE & INTEGRATIONS
+🗄️ 11 — DATABASE & EXTERNAL INTEGRATIONS
 
-JSON Data Storage
+DATABASE RECORDS
 
-- User records
-- VIP records
-- Link records
-- Referral information
-- Pending actions
-- Session information
-- Rate-limit records
-- Link statistics
+- 👤 User records
+- ⭐ VIP records
+- 🔗 Link records
+- 🤝 Referral information
+- ⏳ Pending actions
+- 🔐 Session information
+- 🚦 Rate-limit records
+- 📊 Link statistics
 
-Reported Technology Integrations
+REPORTED INTEGRATIONS
 
 - Telegram Bot API
 - Express.js
@@ -260,23 +285,23 @@ Reported Technology Integrations
 
 ---
 
-🤖 10. TELEGRAM COMMAND CENTER
+🤖 12 — TELEGRAM COMMAND CENTER
 
-<div align="center"><img src="https://img.shields.io/badge/TELEGRAM-COMMAND%20SYSTEM-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></div>🧩 COMMAND| ⚡ FUNCTION| 🔐 ACCESS
-"/start"| Start and registration| Public
-"/menu"| Main menu| User
-"/addvip"| Add VIP| Admin
-"/removevip"| Remove VIP| Admin
-"/ban"| Ban user| Admin
-"/unban"| Unban user| Admin
-"/addbal"| Add balance| Admin
-"/freelist"| Free-user list| Admin
-"/stats"| Bot statistics| Admin
-"/broadcast"| Announcement| Admin
+<div align="center"><img src="https://img.shields.io/badge/TELEGRAM-COMMAND%20INTERFACE-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></div>COMMAND| FUNCTION| ACCESS
+"/start"| Registration and welcome| 🌍 Public
+"/menu"| Main menu| 👤 User
+"/addvip"| Add VIP| 👑 Admin
+"/removevip"| Remove VIP| 👑 Admin
+"/ban"| Ban user| 👑 Admin
+"/unban"| Unban user| 👑 Admin
+"/addbal"| Add balance| 👑 Admin
+"/freelist"| Free-user list| 👑 Admin
+"/stats"| Bot statistics| 👑 Admin
+"/broadcast"| Announcements| 👑 Admin
 
 ---
 
-🏗️ 11. SYSTEM ARCHITECTURE
+🏗️ 13 — SYSTEM ARCHITECTURE
 
                   🌍 TELEGRAM USERS
                           |
@@ -286,47 +311,48 @@ Reported Technology Integrations
                           v
                     ⚡ NODE.JS CORE
                           |
-           +--------------+--------------+
-           |              |              |
-           v              v              v
-       👤 USER         👑 ADMIN       🤝 REFERRAL
-       SYSTEM          SYSTEM          SYSTEM
-           |              |              |
-           +--------------+--------------+
+          +---------------+---------------+
+          |               |               |
+          v               v               v
+      👤 USER          👑 ADMIN        🤝 REFERRAL
+      SYSTEM           SYSTEM           SYSTEM
+          |               |               |
+          +---------------+---------------+
                           |
                           v
                     🔗 LINK MANAGER
                           |
-                  +-------+-------+
-                  |               |
-                  v               v
-             🗄️ JSON DB      🌐 EXPRESS
-                                  |
-                           +------+------+
-                           |             |
-                           v             v
-                       🟢 STATUS      📊 HEALTH
+                 +--------+--------+
+                 |                 |
+                 v                 v
+            🗄️ JSON STORAGE    🌐 EXPRESS
+                                    |
+                              +-----+-----+
+                              |           |
+                              v           v
+                           🟢 STATUS   📊 HEALTH
+                           MONITOR     CHECK
 
 ---
 
-🧰 12. TECHNOLOGY STACK
+🧰 14 — TECHNOLOGY STACK
 
-<div align="center"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,html,css,git,github,linux,vscode&theme=dark&perline=5"/></div>Technology| Role
-🟨 JavaScript| Main language
-🟩 Node.js| Runtime
+<div align="center"><img src="https://skillicons.dev/icons?i=javascript,nodejs,express,html,css,git,github,linux,vscode,postman&theme=dark&perline=5"/></div>TECHNOLOGY| PURPOSE
+🟨 JavaScript| Main programming language
+🟩 Node.js| Runtime environment
 ⚫ Express.js| HTTP server
 🔵 Telegram Bot API| Bot integration
 📦 Axios| HTTP client
 📂 Multer| File handling
 🔐 Crypto| Cryptographic utilities
-🗄️ JSON / FS| Data storage
-☁️ Render| Deployment
+🗄️ JSON / FS| Data persistence
+☁️ Render| Deployment platform
 
 ---
 
-🚀 13. DEPLOYMENT GUIDE
+🚀 15 — INSTALLATION & DEPLOYMENT
 
-Requirements
+📌 REQUIREMENTS
 
 - Node.js
 - npm
@@ -334,30 +360,30 @@ Requirements
 - Hosting platform
 - Environment configuration
 
-Installation
+💻 INSTALLATION
 
 git clone YOUR_REPOSITORY_URL
 cd YOUR_PROJECT_FOLDER
 npm install
 npm start
 
-Environment Variables
+🔐 ENVIRONMENT VARIABLES
 
 TOKEN=YOUR_TELEGRAM_BOT_TOKEN
 PORT=3000
 RENDER_EXTERNAL_URL=YOUR_DEPLOYMENT_URL
 
 <details>
-<summary>🔒 IMPORTANT DEPLOYMENT SECURITY</summary>- Never upload your ".env" file.
-- Never expose your Telegram Bot Token.
-- Keep private API credentials secret.
-- Restrict administrative access.
-- Protect stored user data.
+<summary>🔒 DEPLOYMENT SECURITY CHECKLIST</summary>- Never upload ".env" to GitHub.
+- Never expose Telegram Bot Tokens.
+- Keep private API keys secret.
+- Restrict administrator access.
+- Protect user information.
 - Use authorized testing environments.
 
 </details>---
 
-📁 14. PROJECT STRUCTURE
+📁 16 — PROJECT STRUCTURE
 
 HACKING-TOOL-BOT/
 │
@@ -370,48 +396,54 @@ HACKING-TOOL-BOT/
 └── 📂 data/
     └── 📄 database.json
 
-Architecture: The supplied report describes a single-file Node.js application with logically separated internal modules.
+<sub>The supplied report describes a single-file Node.js implementation with logically separated internal sections.</sub>
 
 ---
 
-📊 15. GITHUB ANALYTICS
+📈 17 — GITHUB ANALYTICS & ACHIEVEMENTS
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashikurfxa-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurfxa-tech&theme=tokyonight&hide_border=true"/><br/><br/>
+<div align="center">🏆 GITHUB PERFORMANCE
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurfxa-tech&layout=compact&theme=tokyonight&hide_border=true"/><br/><br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashikurfxa-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikurfxa-tech&theme=tokyonight&hide_border=true"/><br/><br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ashikurfxa-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/></div>---
+💻 MOST USED LANGUAGES
 
-🌐 16. CONNECT WITH ME
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurfxa-tech&layout=compact&theme=tokyonight&hide_border=true"/><br/><br/>
 
-<div align="center">🔗 LET'S CONNECT & COLLABORATE
+🎖️ PROFILE TROPHIES
 
-<a href="https://github.com/ashikurfxa-tech">
-<img src="https://img.shields.io/badge/GITHUB-ASHIKURFXA--TECH-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ashikurfxa-tech&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7"/></div>---
+
+🌍 18 — CONNECT WITH CYBER INTELLIGENCE FXA 999
+
+<div align="center">🤝 LET'S CONNECT • COLLABORATE • INNOVATE
+
+<br/><a href="https://github.com/ashikurfxa-tech">
+<img width="230" src="https://img.shields.io/badge/GITHUB-VISIT%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a><br/><br/>
 
 <a href="https://www.linkedin.com/in/ashikur-fxa-111754452">
-<img src="https://img.shields.io/badge/LINKEDIN-ASHIKUR%20FXA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img width="230" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><br/><br/>
 
 <a href="https://www.facebook.com/profile.php?id=61596403274813">
-<img src="https://img.shields.io/badge/FACEBOOK-MY%20PROFILE-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img width="230" src="https://img.shields.io/badge/FACEBOOK-FOLLOW-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a><br/><br/>
 
 <a href="https://t.me/mafia_cyber_world">
-<img src="https://img.shields.io/badge/TELEGRAM-MAFIA%20CYBER%20WORLD-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
+<img width="230" src="https://img.shields.io/badge/TELEGRAM-JOIN%20CHANNEL-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a></div>---
 
-🏆 MY DEVELOPER PHILOSOPHY
+<div align="center">🎭 𝐂𝐘𝐁𝐄𝐑 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄 𝐅𝐗𝐀 999
 
-<div align="center">💻 CODE WITH PASSION
+⚡ THINK DIFFERENT. BUILD SMARTER. STAY SECURE.
+
+💻 CODE WITH PASSION
 
 🔐 BUILD WITH RESPONSIBILITY
 
-🚀 INNOVATE WITHOUT LIMITS
+🚀 INNOVATE WITH PURPOSE
 
-🌍 LEARN EVERY SINGLE DAY
+<br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=END+OF+TRANSMISSION...;THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+THE+NEXT+PROJECT." /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:164e63,100:06b6d4&height=150&section=footer"/>© CYBER INTELLIGENCE FXA 999 🎭
 
-<br/>THANK YOU FOR VISITING MY PROFILE ❤️
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:164e63,100:06b6d4&height=150&section=footer"/></div>
+</div>
